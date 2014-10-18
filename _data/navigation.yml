@@ -1,0 +1,11 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+  excerpt: About this Honor Flight Initiative
+  image: 
+
+- title: Our Site
+  url: http://www.gslhonorflight.org/
